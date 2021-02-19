@@ -5,7 +5,3 @@ services:
     build: .
     ports:
       - "3000:3000"
-  test:
-    build: .
-    ports:
-      - "80:80"
